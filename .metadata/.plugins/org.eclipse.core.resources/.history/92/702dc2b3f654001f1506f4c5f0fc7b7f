@@ -1,0 +1,9 @@
+package iphone;
+
+public class Iphone implements AparalhoTelefonico, NavegadorInternet, ReprodutorMusica{
+
+	public static void main(String[] args) {
+		iniciarCorre
+	}
+
+}
